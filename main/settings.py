@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-lw1ynf-$ccglpd7n&zz_i*vkxolz^qtiubbaun)2e07aa4yxs#'
+SECRET_KEY = '55x6q^=*g_!r8h_h=8r6uwwtz$!8-!60u6nw2kn0!4%#0gvtnm'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -88,7 +88,7 @@ DATABASES = {
     }
 }
 
-EXPLORER_CONNECTIONS = { 'Default': 'default' }
+EXPLORER_CONNECTIONS = {'Default': 'default'}
 EXPLORER_DEFAULT_CONNECTION = 'default'
 
 
